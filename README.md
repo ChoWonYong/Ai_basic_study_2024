@@ -1,2 +1,4 @@
 # Ai_basic_study_2024
-2024년 여름 방학, 알고리즘 소모임에서 프로젝트삼아 역전파에 대해 공부하고, 직접 구현해본 내용입니다.
+
+Dataset은 아래 링크에서 다운로드할 수 있습니다.
+[MNIST dataset](https://www.kaggle.com/datasets/playlist/mnistzip/data)
